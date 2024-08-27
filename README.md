@@ -62,6 +62,21 @@ api_key = 'your_tmdb_api_key_here'
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+# Screenshot
+
+## Interface
+
+![Screenshot 2024-08-27 115034](https://github.com/user-attachments/assets/f381f4d9-f2cb-47eb-8ca4-d165ce540860)
+
+## Selecting Movies Name
+
+![Screenshot 2024-08-27 115057](https://github.com/user-attachments/assets/910e4902-96ef-49f7-b2eb-6592d06af5c8)
+
+## Result
+
+![Screenshot 2024-08-27 115123](https://github.com/user-attachments/assets/d4bba517-fa99-4116-aa73-65921f343079)
+
+
 ---
 
 Thank you for using the Movie Recommender System! If you found this project useful, please give it a ⭐ on GitHub.
