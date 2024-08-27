@@ -22,7 +22,7 @@ This project is a **Movie Recommender System** built with **Streamlit** that sug
 
 1. **Clone the repository**:
     \`\`\`bash
-    git clone https://github.com/your-username/movie-recommender-system.git
+    git clone https://github.com/Shreyas-Pawaskar/movie-recommender-system.git
     cd movie-recommender-system
     \`\`\`
 
